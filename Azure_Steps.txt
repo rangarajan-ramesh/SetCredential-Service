@@ -1,0 +1,371 @@
+Bhavya@DESKTOP-UB5830S MINGW64 /s
+$ git config --global user.email "brajagopal@parasoft.com"
+
+Bhavya@DESKTOP-UB5830S MINGW64 /s
+$ git config --list
+core.symlinks=false
+core.autocrlf=true
+core.fscache=true
+color.diff=auto
+color.status=auto
+color.branch=auto
+color.interactive=true
+help.format=html
+rebase.autosquash=true
+http.sslcainfo=C:/Program Files/Git/mingw64/ssl/certs/ca-bundle.crt
+http.sslbackend=openssl
+diff.astextplain.textconv=astextplain
+filter.lfs.clean=git-lfs clean -- %f
+filter.lfs.smudge=git-lfs smudge -- %f
+filter.lfs.process=git-lfs filter-process
+filter.lfs.required=true
+credential.helper=manager
+gui.recentrepo=C:/Users/Bhavya/JTestBetaWS
+gui.recentrepo=C:/Users/Bhavya/git/repository
+user.name=Bhavya Rajagopal
+user.email=brajagopal@parasoft.com
+
+Bhavya@DESKTOP-UB5830S MINGW64 /s
+$ git clone https://puneethpgowdatechie@dev.azure.com/puneethpgowdatechie/HDFC-Workflow/_git/HDFC-Workflow.bhavya.rajagopal
+Cloning into 'HDFC-Workflow.bhavya.rajagopal'...
+fatal: NullReferenceException encountered.
+   Object reference not set to an instance of an object.
+fatal: NullReferenceException encountered.
+   Object reference not set to an instance of an object.
+fatal: Authentication failed for 'https://puneethpgowdatechie@dev.azure.com/puneethpgowdatechie/HDFC-Workflow/_git/HDFC-Workflow.bhavya.rajagopal/'
+
+Bhavya@DESKTOP-UB5830S MINGW64 /s
+$ git clone https://puneethpgowdatechie@dev.azure.com/puneethpgowdatechie/HDFC-Workflow/_git/HDFC-Workflow.bhavya.rajagopal
+Cloning into 'HDFC-Workflow.bhavya.rajagopal'...
+fatal: NullReferenceException encountered.
+   Object reference not set to an instance of an object.
+error: unable to read askpass response from 'C:/Program Files/Git/mingw64/libexec/git-core/git-gui--askpass'
+Password for 'https://puneethpgowdatechie@dev.azure.com': fatal: NullReferenceException encountered.
+   Object reference not set to an instance of an object.
+
+Bhavya@DESKTOP-UB5830S MINGW64 /s
+$ clear
+
+Bhavya@DESKTOP-UB5830S MINGW64 /s
+$ cd Azure-Repo/
+
+Bhavya@DESKTOP-UB5830S MINGW64 /s/Azure-Repo
+$ git clone https://puneethpgowdatechie@dev.azure.com/puneethpgowdatechie/HDFC-Workflow/_git/HDFC-Workflow.bhavya.rajagopal
+Cloning into 'HDFC-Workflow.bhavya.rajagopal'...
+fatal: NullReferenceException encountered.
+   Object reference not set to an instance of an object.
+fatal: NullReferenceException encountered.
+   Object reference not set to an instance of an object.
+fatal: Authentication failed for 'https://puneethpgowdatechie@dev.azure.com/puneethpgowdatechie/HDFC-Workflow/_git/HDFC-Workflow.bhavya.rajagopal/'
+
+Bhavya@DESKTOP-UB5830S MINGW64 /s/Azure-Repo
+$ git config --list
+core.symlinks=false
+core.autocrlf=true
+core.fscache=true
+color.diff=auto
+color.status=auto
+color.branch=auto
+color.interactive=true
+help.format=html
+rebase.autosquash=true
+http.sslcainfo=C:/Program Files/Git/mingw64/ssl/certs/ca-bundle.crt
+http.sslbackend=openssl
+diff.astextplain.textconv=astextplain
+filter.lfs.clean=git-lfs clean -- %f
+filter.lfs.smudge=git-lfs smudge -- %f
+filter.lfs.process=git-lfs filter-process
+filter.lfs.required=true
+credential.helper=manager
+gui.recentrepo=C:/Users/Bhavya/JTestBetaWS
+gui.recentrepo=C:/Users/Bhavya/git/repository
+user.name=Bhavya Rajagopal
+user.email=brajagopal@parasoft.com
+
+Bhavya@DESKTOP-UB5830S MINGW64 /s/Azure-Repo
+$ git clone https://puneethpgowdatechie@dev.azure.com/puneethpgowdatechie/HDFC-Workflow/_git/HDFC-Workflow.bhavya.rajagopal
+Cloning into 'HDFC-Workflow.bhavya.rajagopal'...
+fatal: NullReferenceException encountered.
+   Object reference not set to an instance of an object.
+fatal: NullReferenceException encountered.
+   Object reference not set to an instance of an object.
+remote: Azure Repos
+remote: This repository is a fork. Learn more at https://aka.ms/whatisafork.
+remote: To add its upstream as a remote, run:
+remote: git remote add upstream https://puneethpgowdatechie@dev.azure.com/puneethpgowdatechie/HDFC-Workflow/_git/HDFC-Workflow
+remote:
+remote: We noticed you're using an older version of Git. For the best experience, upgrade to a newer version.
+remote: Found 86 objects to send. (50 ms)
+Unpacking objects: 100% (86/86), done.
+
+Bhavya@DESKTOP-UB5830S MINGW64 /s/Azure-Repo
+$ git remote -v
+fatal: not a git repository (or any of the parent directories): .git
+
+Bhavya@DESKTOP-UB5830S MINGW64 /s/Azure-Repo
+$ cd HDFC-Workflow.bhavya.rajagopal/
+
+Bhavya@DESKTOP-UB5830S MINGW64 /s/Azure-Repo/HDFC-Workflow.bhavya.rajagopal (master)
+$ git remote -v
+origin  https://puneethpgowdatechie@dev.azure.com/puneethpgowdatechie/HDFC-Workflow/_git/HDFC-Workflow.bhavya.rajagopal (fetch)
+origin  https://puneethpgowdatechie@dev.azure.com/puneethpgowdatechie/HDFC-Workflow/_git/HDFC-Workflow.bhavya.rajagopal (push)
+
+Bhavya@DESKTOP-UB5830S MINGW64 /s/Azure-Repo/HDFC-Workflow.bhavya.rajagopal (master)
+$ git remote add hdfc https://puneethpgowdatechie@dev.azure.com/puneethpgowdatechie/HDFC-Workflow/_git/HDFC-Workflow
+
+Bhavya@DESKTOP-UB5830S MINGW64 /s/Azure-Repo/HDFC-Workflow.bhavya.rajagopal (master)
+$ git remote -v
+hdfc    https://puneethpgowdatechie@dev.azure.com/puneethpgowdatechie/HDFC-Workflow/_git/HDFC-Workflow (fetch)
+hdfc    https://puneethpgowdatechie@dev.azure.com/puneethpgowdatechie/HDFC-Workflow/_git/HDFC-Workflow (push)
+origin  https://puneethpgowdatechie@dev.azure.com/puneethpgowdatechie/HDFC-Workflow/_git/HDFC-Workflow.bhavya.rajagopal (fetch)
+origin  https://puneethpgowdatechie@dev.azure.com/puneethpgowdatechie/HDFC-Workflow/_git/HDFC-Workflow.bhavya.rajagopal (push)
+
+Bhavya@DESKTOP-UB5830S MINGW64 /s/Azure-Repo/HDFC-Workflow.bhavya.rajagopal (master)
+$ git checkout -b test/bhavya
+Switched to a new branch 'test/bhavya'
+
+Bhavya@DESKTOP-UB5830S MINGW64 /s/Azure-Repo/HDFC-Workflow.bhavya.rajagopal (test/bhavya)
+$ git add .
+
+Bhavya@DESKTOP-UB5830S MINGW64 /s/Azure-Repo/HDFC-Workflow.bhavya.rajagopal (test/bhavya)
+$ git commit -m "new test file"
+[test/bhavya cee0483] new test file
+ 1 file changed, 1 insertion(+)
+ create mode 100644 bhavya-test.txt
+
+Bhavya@DESKTOP-UB5830S MINGW64 /s/Azure-Repo/HDFC-Workflow.bhavya.rajagopal (test/bhavya)
+$ git push origin test/bhavya
+fatal: NullReferenceException encountered.
+   Object reference not set to an instance of an object.
+fatal: NullReferenceException encountered.
+   Object reference not set to an instance of an object.
+Enumerating objects: 4, done.
+Counting objects: 100% (4/4), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (2/2), done.
+Writing objects: 100% (3/3), 296 bytes | 296.00 KiB/s, done.
+Total 3 (delta 1), reused 0 (delta 0)
+remote: Analyzing objects... (3/3) (9 ms)
+remote: Storing packfile... done (37 ms)
+remote: Storing index... done (31 ms)
+remote: We noticed you're using an older version of Git. For the best experience, upgrade to a newer version.
+To https://dev.azure.com/puneethpgowdatechie/HDFC-Workflow/_git/HDFC-Workflow.bhavya.rajagopal
+ * [new branch]      test/bhavya -> test/bhavya
+
+Bhavya@DESKTOP-UB5830S MINGW64 /s/Azure-Repo/HDFC-Workflow.bhavya.rajagopal (test/bhavya)
+$ git checkout master
+Switched to branch 'master'
+Your branch is up to date with 'origin/master'.
+
+Bhavya@DESKTOP-UB5830S MINGW64 /s/Azure-Repo/HDFC-Workflow.bhavya.rajagopal (master)
+$ git pull hdfc master
+fatal: NullReferenceException encountered.
+   Object reference not set to an instance of an object.
+fatal: NullReferenceException encountered.
+   Object reference not set to an instance of an object.
+remote: Azure Repos
+remote: We noticed you're using an older version of Git. For the best experience, upgrade to a newer version.
+remote: Found 1 objects to send. (1 ms)
+Unpacking objects: 100% (1/1), done.
+From https://dev.azure.com/puneethpgowdatechie/HDFC-Workflow/_git/HDFC-Workflow
+ * branch            master     -> FETCH_HEAD
+ * [new branch]      master     -> hdfc/master
+Updating 4c2b41d..d970fe1
+Fast-forward
+ bhavya-test.txt | 1 +
+ 1 file changed, 1 insertion(+)
+ create mode 100644 bhavya-test.txt
+
+Bhavya@DESKTOP-UB5830S MINGW64 /s/Azure-Repo/HDFC-Workflow.bhavya.rajagopal (master)
+$ git log --oneline
+d970fe1 (HEAD -> master, hdfc/master) Merged PR 7: new test file
+cee0483 (origin/test/bhavya, test/bhavya) new test file
+4c2b41d (origin/master, origin/HEAD) Merged PR 6: Added Broker_Agency_Fetch_Details service
+48ae7d5 Added Request Body in responder Options and have done Responder Correlation!
+88dcb48 Created .pva file for Broker Agency Fetch Details service!
+0584de9 Merged PR 5: Added Sujana_PAN_SERVICE
+5215786 Added Data_Generator_Tool for .pva
+06bc74f Created .pva for Sujana_PAN_SERVICE
+28a18a0 Modified .PVN name
+6340e7f Created .PVN for TESTING_PAN_SERVICE
+be6955a Created .pva for TESTING_PAN_SERVICE
+9551cf7 Merged PR 4: Added PR_PAN_VALIDATION
+985e9f1 Added Request body in Responder Correlation
+1da387e Created .pva for PR_PAN_VALIDATION
+ba52578 Merged PR 3: Added test/fr file.
+87ea103 Added test/fr file.
+de41b76 Merged PR 2: Added PR file request.
+c0fbdbb Added PR file request.
+b46dbb6 Merged PR 1: Added feature file.
+7806847 Added feature file.
+e5a85c5 Workspace setup.
+
+Bhavya@DESKTOP-UB5830S MINGW64 /s/Azure-Repo/HDFC-Workflow.bhavya.rajagopal (master)
+$ git push origin master
+fatal: NullReferenceException encountered.
+   Object reference not set to an instance of an object.
+fatal: NullReferenceException encountered.
+   Object reference not set to an instance of an object.
+Enumerating objects: 1, done.
+Counting objects: 100% (1/1), done.
+Writing objects: 100% (1/1), 265 bytes | 265.00 KiB/s, done.
+Total 1 (delta 0), reused 0 (delta 0)
+remote: Analyzing objects... (1/1) (18 ms)
+remote: Storing packfile... done (38 ms)
+remote: Storing index... done (39 ms)
+remote: We noticed you're using an older version of Git. For the best experience, upgrade to a newer version.
+To https://dev.azure.com/puneethpgowdatechie/HDFC-Workflow/_git/HDFC-Workflow.bhavya.rajagopal
+   4c2b41d..d970fe1  master -> master
+
+Bhavya@DESKTOP-UB5830S MINGW64 /s/Azure-Repo/HDFC-Workflow.bhavya.rajagopal (master)
+$ git log --oneline
+d970fe1 (HEAD -> master, origin/master, origin/HEAD, hdfc/master) Merged PR 7: new test file
+cee0483 (origin/test/bhavya, test/bhavya) new test file
+4c2b41d Merged PR 6: Added Broker_Agency_Fetch_Details service
+48ae7d5 Added Request Body in responder Options and have done Responder Correlation!
+88dcb48 Created .pva file for Broker Agency Fetch Details service!
+0584de9 Merged PR 5: Added Sujana_PAN_SERVICE
+5215786 Added Data_Generator_Tool for .pva
+06bc74f Created .pva for Sujana_PAN_SERVICE
+28a18a0 Modified .PVN name
+6340e7f Created .PVN for TESTING_PAN_SERVICE
+be6955a Created .pva for TESTING_PAN_SERVICE
+9551cf7 Merged PR 4: Added PR_PAN_VALIDATION
+985e9f1 Added Request body in Responder Correlation
+1da387e Created .pva for PR_PAN_VALIDATION
+ba52578 Merged PR 3: Added test/fr file.
+87ea103 Added test/fr file.
+de41b76 Merged PR 2: Added PR file request.
+c0fbdbb Added PR file request.
+b46dbb6 Merged PR 1: Added feature file.
+7806847 Added feature file.
+e5a85c5 Workspace setup.
+
+Bhavya@DESKTOP-UB5830S MINGW64 /s/Azure-Repo/HDFC-Workflow.bhavya.rajagopal (master)
+$ git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+        modified:   bhavya-test.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+Bhavya@DESKTOP-UB5830S MINGW64 /s/Azure-Repo/HDFC-Workflow.bhavya.rajagopal (master)
+$ git commit -am "added extra details"
+[master 30b6622] added extra details
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+
+Bhavya@DESKTOP-UB5830S MINGW64 /s/Azure-Repo/HDFC-Workflow.bhavya.rajagopal (master)
+$ git log --oneline
+30b6622 (HEAD -> master) added extra details
+d970fe1 (origin/master, origin/HEAD, hdfc/master) Merged PR 7: new test file
+cee0483 (origin/test/bhavya, test/bhavya) new test file
+4c2b41d Merged PR 6: Added Broker_Agency_Fetch_Details service
+48ae7d5 Added Request Body in responder Options and have done Responder Correlation!
+88dcb48 Created .pva file for Broker Agency Fetch Details service!
+0584de9 Merged PR 5: Added Sujana_PAN_SERVICE
+5215786 Added Data_Generator_Tool for .pva
+06bc74f Created .pva for Sujana_PAN_SERVICE
+28a18a0 Modified .PVN name
+6340e7f Created .PVN for TESTING_PAN_SERVICE
+be6955a Created .pva for TESTING_PAN_SERVICE
+9551cf7 Merged PR 4: Added PR_PAN_VALIDATION
+985e9f1 Added Request body in Responder Correlation
+1da387e Created .pva for PR_PAN_VALIDATION
+ba52578 Merged PR 3: Added test/fr file.
+87ea103 Added test/fr file.
+de41b76 Merged PR 2: Added PR file request.
+c0fbdbb Added PR file request.
+b46dbb6 Merged PR 1: Added feature file.
+7806847 Added feature file.
+e5a85c5 Workspace setup.
+
+Bhavya@DESKTOP-UB5830S MINGW64 /s/Azure-Repo/HDFC-Workflow.bhavya.rajagopal (master)
+$ git push origin master
+fatal: NullReferenceException encountered.
+   Object reference not set to an instance of an object.
+fatal: NullReferenceException encountered.
+   Object reference not set to an instance of an object.
+Enumerating objects: 5, done.
+Counting objects: 100% (5/5), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (2/2), done.
+Writing objects: 100% (3/3), 303 bytes | 151.00 KiB/s, done.
+Total 3 (delta 1), reused 0 (delta 0)
+remote: Analyzing objects... (3/3) (5 ms)
+remote: Storing packfile... done (35 ms)
+remote: Storing index... done (26 ms)
+remote: We noticed you're using an older version of Git. For the best experience, upgrade to a newer version.
+To https://dev.azure.com/puneethpgowdatechie/HDFC-Workflow/_git/HDFC-Workflow.bhavya.rajagopal
+   d970fe1..30b6622  master -> master
+
+Bhavya@DESKTOP-UB5830S MINGW64 /s/Azure-Repo/HDFC-Workflow.bhavya.rajagopal (master)
+$ git log --oneline
+30b6622 (HEAD -> master, origin/master, origin/HEAD) added extra details
+d970fe1 (hdfc/master) Merged PR 7: new test file
+cee0483 (origin/test/bhavya, test/bhavya) new test file
+4c2b41d Merged PR 6: Added Broker_Agency_Fetch_Details service
+48ae7d5 Added Request Body in responder Options and have done Responder Correlation!
+88dcb48 Created .pva file for Broker Agency Fetch Details service!
+0584de9 Merged PR 5: Added Sujana_PAN_SERVICE
+5215786 Added Data_Generator_Tool for .pva
+06bc74f Created .pva for Sujana_PAN_SERVICE
+28a18a0 Modified .PVN name
+6340e7f Created .PVN for TESTING_PAN_SERVICE
+be6955a Created .pva for TESTING_PAN_SERVICE
+9551cf7 Merged PR 4: Added PR_PAN_VALIDATION
+985e9f1 Added Request body in Responder Correlation
+1da387e Created .pva for PR_PAN_VALIDATION
+ba52578 Merged PR 3: Added test/fr file.
+87ea103 Added test/fr file.
+de41b76 Merged PR 2: Added PR file request.
+c0fbdbb Added PR file request.
+b46dbb6 Merged PR 1: Added feature file.
+7806847 Added feature file.
+e5a85c5 Workspace setup.
+
+Bhavya@DESKTOP-UB5830S MINGW64 /s/Azure-Repo/HDFC-Workflow.bhavya.rajagopal (master)
+$ git checekout test/bhavya
+git: 'checekout' is not a git command. See 'git --help'.
+
+The most similar command is
+        checkout
+
+Bhavya@DESKTOP-UB5830S MINGW64 /s/Azure-Repo/HDFC-Workflow.bhavya.rajagopal (master)
+$ git checkout test/bhavya
+Switched to branch 'test/bhavya'
+
+Bhavya@DESKTOP-UB5830S MINGW64 /s/Azure-Repo/HDFC-Workflow.bhavya.rajagopal (test/bhavya)
+$ git status
+On branch test/bhavya
+nothing to commit, working tree clean
+
+Bhavya@DESKTOP-UB5830S MINGW64 /s/Azure-Repo/HDFC-Workflow.bhavya.rajagopal (test/bhavya)
+$ git pull origin master
+fatal: NullReferenceException encountered.
+   Object reference not set to an instance of an object.
+fatal: NullReferenceException encountered.
+   Object reference not set to an instance of an object.
+From https://dev.azure.com/puneethpgowdatechie/HDFC-Workflow/_git/HDFC-Workflow.bhavya.rajagopal
+ * branch            master     -> FETCH_HEAD
+Updating cee0483..30b6622
+Fast-forward
+ bhavya-test.txt | 4 +++-
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+
+Bhavya@DESKTOP-UB5830S MINGW64 /s/Azure-Repo/HDFC-Workflow.bhavya.rajagopal (test/bhavya)
+$ git push origin test/bhavya
+fatal: NullReferenceException encountered.
+   Object reference not set to an instance of an object.
+fatal: NullReferenceException encountered.
+   Object reference not set to an instance of an object.
+Total 0 (delta 0), reused 0 (delta 0)
+remote: We noticed you're using an older version of Git. For the best experience, upgrade to a newer version.
+To https://dev.azure.com/puneethpgowdatechie/HDFC-Workflow/_git/HDFC-Workflow.bhavya.rajagopal
+   cee0483..30b6622  test/bhavya -> test/bhavya
+
+Bhavya@DESKTOP-UB5830S MINGW64 /s/Azure-Repo/HDFC-Workflow.bhavya.rajagopal (test/bhavya)
